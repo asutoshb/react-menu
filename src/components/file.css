@@ -1,0 +1,66 @@
+.size {
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+#size1 {
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.grid {
+  width: 30%;
+  display: grid;
+  grid-template-columns: 45% 45%;
+  gap: 2%;
+}
+
+.align-row {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+
+.blue {
+  background-color: blue;
+}
+.grey {
+  background-color: grey;
+}
+
+.margin-left {
+  margin-left: 4px;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.violet {
+  background-color: violet;
+}
+.pink {
+  background-color: pink;
+}
+.brown {
+  background-color: brown;
+}
